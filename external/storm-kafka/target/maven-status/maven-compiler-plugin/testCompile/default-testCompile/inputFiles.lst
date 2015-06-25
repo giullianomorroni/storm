@@ -1,0 +1,11 @@
+/opt/development/workspace/java8/storm/external/storm-kafka/src/test/storm/kafka/DynamicBrokersReaderTest.java
+/opt/development/workspace/java8/storm/external/storm-kafka/src/test/storm/kafka/KafkaTestBroker.java
+/opt/development/workspace/java8/storm/external/storm-kafka/src/test/storm/kafka/KafkaUtilsTest.java
+/opt/development/workspace/java8/storm/external/storm-kafka/src/test/storm/kafka/ZkCoordinatorTest.java
+/opt/development/workspace/java8/storm/external/storm-kafka/src/test/storm/kafka/StringKeyValueSchemeTest.java
+/opt/development/workspace/java8/storm/external/storm-kafka/src/test/storm/kafka/ExponentialBackoffMsgRetryManagerTest.java
+/opt/development/workspace/java8/storm/external/storm-kafka/src/test/storm/kafka/TestUtils.java
+/opt/development/workspace/java8/storm/external/storm-kafka/src/test/storm/kafka/KafkaErrorTest.java
+/opt/development/workspace/java8/storm/external/storm-kafka/src/test/storm/kafka/TridentKafkaTest.java
+/opt/development/workspace/java8/storm/external/storm-kafka/src/test/storm/kafka/TridentKafkaTopology.java
+/opt/development/workspace/java8/storm/external/storm-kafka/src/test/storm/kafka/bolt/KafkaBoltTest.java

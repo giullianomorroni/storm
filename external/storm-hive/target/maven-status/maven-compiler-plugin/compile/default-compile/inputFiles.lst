@@ -1,0 +1,10 @@
+/opt/development/workspace/java8/storm/external/storm-hive/src/main/java/org/apache/storm/hive/trident/HiveStateFactory.java
+/opt/development/workspace/java8/storm/external/storm-hive/src/main/java/org/apache/storm/hive/bolt/mapper/HiveMapper.java
+/opt/development/workspace/java8/storm/external/storm-hive/src/main/java/org/apache/storm/hive/bolt/HiveBolt.java
+/opt/development/workspace/java8/storm/external/storm-hive/src/main/java/org/apache/storm/hive/trident/HiveUpdater.java
+/opt/development/workspace/java8/storm/external/storm-hive/src/main/java/org/apache/storm/hive/common/HiveUtils.java
+/opt/development/workspace/java8/storm/external/storm-hive/src/main/java/org/apache/storm/hive/bolt/mapper/JsonRecordHiveMapper.java
+/opt/development/workspace/java8/storm/external/storm-hive/src/main/java/org/apache/storm/hive/bolt/mapper/DelimitedRecordHiveMapper.java
+/opt/development/workspace/java8/storm/external/storm-hive/src/main/java/org/apache/storm/hive/common/HiveOptions.java
+/opt/development/workspace/java8/storm/external/storm-hive/src/main/java/org/apache/storm/hive/trident/HiveState.java
+/opt/development/workspace/java8/storm/external/storm-hive/src/main/java/org/apache/storm/hive/common/HiveWriter.java

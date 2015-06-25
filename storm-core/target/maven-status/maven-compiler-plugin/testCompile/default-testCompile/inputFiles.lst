@@ -1,0 +1,6 @@
+/opt/development/workspace/java8/storm/storm-core/test/jvm/backtype/storm/grouping/PartialKeyGroupingTest.java
+/opt/development/workspace/java8/storm/storm-core/test/jvm/backtype/storm/utils/DisruptorQueueTest.java
+/opt/development/workspace/java8/storm/storm-core/test/jvm/backtype/storm/serialization/ThriftBridgeSerializationDelegateTest.java
+/opt/development/workspace/java8/storm/storm-core/test/jvm/backtype/storm/serialization/GzipBridgeThriftSerializationDelegateTest.java
+/opt/development/workspace/java8/storm/storm-core/test/jvm/backtype/storm/utils/StormBoundedExponentialBackoffRetryTest.java
+/opt/development/workspace/java8/storm/storm-core/test/jvm/backtype/storm/serialization/GzipBridgeSerializationDelegateTest.java

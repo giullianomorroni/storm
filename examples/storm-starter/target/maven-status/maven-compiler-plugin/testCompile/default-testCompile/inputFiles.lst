@@ -1,0 +1,9 @@
+/opt/development/workspace/java8/storm/examples/storm-starter/test/jvm/storm/starter/tools/RankingsTest.java
+/opt/development/workspace/java8/storm/examples/storm-starter/test/jvm/storm/starter/tools/SlidingWindowCounterTest.java
+/opt/development/workspace/java8/storm/examples/storm-starter/test/jvm/storm/starter/tools/RankableObjectWithFieldsTest.java
+/opt/development/workspace/java8/storm/examples/storm-starter/test/jvm/storm/starter/tools/NthLastModifiedTimeTrackerTest.java
+/opt/development/workspace/java8/storm/examples/storm-starter/test/jvm/storm/starter/bolt/IntermediateRankingsBoltTest.java
+/opt/development/workspace/java8/storm/examples/storm-starter/test/jvm/storm/starter/tools/MockTupleHelpers.java
+/opt/development/workspace/java8/storm/examples/storm-starter/test/jvm/storm/starter/tools/SlotBasedCounterTest.java
+/opt/development/workspace/java8/storm/examples/storm-starter/test/jvm/storm/starter/bolt/RollingCountBoltTest.java
+/opt/development/workspace/java8/storm/examples/storm-starter/test/jvm/storm/starter/bolt/TotalRankingsBoltTest.java

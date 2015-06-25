@@ -1,0 +1,6 @@
+/opt/development/workspace/java8/storm/external/storm-hive/src/test/java/org/apache/storm/hive/common/TestHiveWriter.java
+/opt/development/workspace/java8/storm/external/storm-hive/src/test/java/org/apache/storm/hive/bolt/TestHiveBolt.java
+/opt/development/workspace/java8/storm/external/storm-hive/src/test/java/org/apache/storm/hive/bolt/HiveTopology.java
+/opt/development/workspace/java8/storm/external/storm-hive/src/test/java/org/apache/storm/hive/trident/TridentHiveTopology.java
+/opt/development/workspace/java8/storm/external/storm-hive/src/test/java/org/apache/storm/hive/bolt/HiveSetupUtil.java
+/opt/development/workspace/java8/storm/external/storm-hive/src/test/java/org/apache/storm/hive/bolt/HiveTopologyPartitioned.java

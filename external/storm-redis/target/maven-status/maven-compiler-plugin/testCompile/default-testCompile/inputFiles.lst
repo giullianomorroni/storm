@@ -1,0 +1,11 @@
+/opt/development/workspace/java8/storm/external/storm-redis/src/test/java/org/apache/storm/redis/topology/LookupWordCount.java
+/opt/development/workspace/java8/storm/external/storm-redis/src/test/java/org/apache/storm/redis/topology/WordCounter.java
+/opt/development/workspace/java8/storm/external/storm-redis/src/test/java/org/apache/storm/redis/trident/WordCountStoreMapper.java
+/opt/development/workspace/java8/storm/external/storm-redis/src/test/java/org/apache/storm/redis/trident/WordCountLookupMapper.java
+/opt/development/workspace/java8/storm/external/storm-redis/src/test/java/org/apache/storm/redis/topology/WordSpout.java
+/opt/development/workspace/java8/storm/external/storm-redis/src/test/java/org/apache/storm/redis/trident/WordCountTridentRedisMap.java
+/opt/development/workspace/java8/storm/external/storm-redis/src/test/java/org/apache/storm/redis/trident/WordCountTridentRedisCluster.java
+/opt/development/workspace/java8/storm/external/storm-redis/src/test/java/org/apache/storm/redis/trident/WordCountTridentRedisClusterMap.java
+/opt/development/workspace/java8/storm/external/storm-redis/src/test/java/org/apache/storm/redis/trident/WordCountTridentRedis.java
+/opt/development/workspace/java8/storm/external/storm-redis/src/test/java/org/apache/storm/redis/trident/PrintFunction.java
+/opt/development/workspace/java8/storm/external/storm-redis/src/test/java/org/apache/storm/redis/topology/PersistentWordCount.java

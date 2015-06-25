@@ -1,0 +1,5 @@
+/opt/development/workspace/java8/storm/external/storm-hdfs/src/test/java/org/apache/storm/hdfs/trident/TridentSequenceTopology.java
+/opt/development/workspace/java8/storm/external/storm-hdfs/src/test/java/org/apache/storm/hdfs/bolt/HdfsFileTopology.java
+/opt/development/workspace/java8/storm/external/storm-hdfs/src/test/java/org/apache/storm/hdfs/trident/TridentFileTopology.java
+/opt/development/workspace/java8/storm/external/storm-hdfs/src/test/java/org/apache/storm/hdfs/trident/FixedBatchSpout.java
+/opt/development/workspace/java8/storm/external/storm-hdfs/src/test/java/org/apache/storm/hdfs/bolt/SequenceFileTopology.java
